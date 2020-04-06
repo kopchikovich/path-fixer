@@ -1,0 +1,26 @@
+{
+  "name": "cra-path-fixer",
+  "version": "1.0.0",
+  "description": "\"Fix paths in build/index.html after creating production build using a create-react-app\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kopchikovich/path-fixer.git"
+  },
+  "keywords": [
+    "fixpath",
+    "create-react-app",
+    "cra",
+    "fix",
+    "path"
+  ],
+  "author": "kopchikovich",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kopchikovich/path-fixer/issues"
+  },
+  "homepage": "https://github.com/kopchikovich/path-fixer#readme"
+}
