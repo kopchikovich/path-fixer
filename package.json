@@ -1,11 +1,10 @@
 {
   "name": "cra-path-fixer",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "\"Fix paths in build/index.html after creating production build using a create-react-app\"",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node index.js"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
