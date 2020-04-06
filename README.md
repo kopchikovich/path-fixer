@@ -2,6 +2,12 @@
 
 A small package made exactly for one function: correcting file paths in build/index.html after creating a production build using a create-react-app.
 
+Install:
+```
+npm install --save cra-path-fixer
+```
+
+
 For use change: 
 ```
 "scripts": {
